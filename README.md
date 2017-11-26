@@ -1,2 +1,2 @@
 # machine_learning_practice
--pythonを使ってMLの練習
+pythonを使ってMLの練習
